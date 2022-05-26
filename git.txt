@@ -1,2 +1,2 @@
-Esta es la version 5
-Texto añadido
+Esta es la version 6
+Solucionando problema
