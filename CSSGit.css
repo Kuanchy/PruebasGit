@@ -1,0 +1,51 @@
+body{
+    background-color: azure;
+    margin: 0 auto;
+}
+
+#titulo_Principal{
+    text-align: center;
+}
+
+.parrafos_Alineados{
+    text-align: center;
+    margin: auto;
+    width: 80%;
+}
+
+.titulos_Secundarios{
+    text-align: center;
+}
+
+header{
+    background-color: rgba(16, 2, 46, 0.393);
+}
+
+ul {
+    margin: 0 auto;
+    margin-bottom: 3em;
+  }
+
+header ul li{
+    list-style: none;
+    display: inline-block;
+}
+
+header ul li:hover{
+    background-color: rgba(16, 2, 46, 0.529);
+    transition: 0.2s ease-in;
+}
+
+header ul li a{
+    list-style: none;
+    text-decoration: none;
+    display: block;
+    color: black;
+    padding: 1em;
+}
+
+section{
+    width: 80%;
+    margin: 0 auto;
+    border: 1px black solid;
+}
